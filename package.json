@@ -8,6 +8,12 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Thomas Seo",
+  "repository": {
+    "type: "git",
+    "url": "https://github.com/thomasseo1/ThomasSeo-SDK"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
   "license": "ISC",
   "dependencies": {
     "axios": "^0.27.2"
