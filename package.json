@@ -1,0 +1,15 @@
+{
+  "name": "liblabsdk",
+  "version": "1.0.0",
+  "description": "My LibLab Lord of the Rings SDK take-home",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thomas Seo",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
