@@ -14,6 +14,7 @@
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
+  },
   "license": "ISC",
   "dependencies": {
     "axios": "^0.27.2"
