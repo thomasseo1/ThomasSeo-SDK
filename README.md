@@ -139,11 +139,13 @@ There is an option for filtering your requests by adding pagination, sorting, an
 
 ## Example Setup
 ```
-import BookApi from './api/bookAPI.js'
-import MovieApi from './api/movieAPI.js'
-import CharacterApi from './api/characterAPI.js'
-import QuoteApi from './api/quoteAPI.js'
-import ChapterApi from './api/chapterAPI.js'
+import { 
+  BookApi,
+	MovieApi,
+	CharacterApi,
+	QuoteApi,
+	ChapterApi 
+  } from 'thomasseosdk'
 
 // token must be in string format
 const token = 'put-your-access-token-here';

@@ -4,7 +4,7 @@ import CharacterApi from './api/characterAPI.js'
 import QuoteApi from './api/quoteAPI.js'
 import ChapterApi from './api/chapterAPI.js'
 
-export default {
+export {
 	BookApi,
 	MovieApi,
 	CharacterApi,
