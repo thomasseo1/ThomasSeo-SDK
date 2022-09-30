@@ -6,7 +6,7 @@ An SDK for the [Lord of the Rings](https://the-one-api.dev/) API.
 ## Installation
 
 ```
-npm i thomassseosdk
+npm i thomassdk
 ```
 
 ## Usage
@@ -145,7 +145,7 @@ import {
 	CharacterApi,
 	QuoteApi,
 	ChapterApi 
-  } from 'thomasseosdk'
+  } from 'thomassdk'
 
 // token must be in string format
 const token = 'put-your-access-token-here';
